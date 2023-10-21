@@ -1,0 +1,27 @@
+img{
+    width: 25%;
+    margin: 20px;
+    transition: 1s;
+}
+img:hover{
+    box-shadow: 0px 0px 20px blue;
+    border-radius: 50px;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+p{
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: double;
+color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+text-decoration: line-through;
+text-shadow: 0px 5px 7px;
+}
