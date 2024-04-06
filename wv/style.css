@@ -1,0 +1,39 @@
+img{
+    width: 100%;
+}
+.logo-img{
+    width: 80px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin: top 20px;
+}
+.footer{
+    margin-top: 40px;
+    padding: 30px 0;
+    color: azure;
+    background-color: brown;
+}
+    i{
+        font-size: 2rem;
+        color: #dbdbdb;
+        margin-right: 10px;
+    }
+    .zoom:hover{
+transform: scale(2);
+    }
+.zoom{
+    transition: 0.5s;
+}
+.col-md-5 ,.container-fluid{
+    overflow: hidden;
+}
+h1 ,h2{
+    text-align: center;
+    margin: 30px 0;
+}
+
+
