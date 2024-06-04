@@ -1,0 +1,92 @@
+img {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+h2 {
+    text-align: center;
+}
+
+.ico {
+    width: 50px;
+}
+
+.round {
+    border-radius: 10px;
+}
+
+.main-cont {
+    background-color: #f3e57b;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.ovcharka {
+    background-color: #f3817b;
+    padding-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bigl {
+    background-color: #c5fb60;
+    padding-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.taksa {
+    background-color: #608efb;
+    padding-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.doberman {
+    background-color: #f69873;
+    padding-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.chihyahya {
+    background-color: #81cefb;
+    padding-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.shelti {
+    background-color: #8d68fa;
+    padding-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pydel {
+    background-color: #cdf888;
+    padding-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer {
+    background-color: rgb(71, 69, 66);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.socio-face {
+    color: blue;
+    font-size: 2am;
+}
+
+.socio-yotube {
+    color: red;
+    text-decoration: none;
+
+}
